@@ -1,0 +1,1 @@
+# https://pythonschool.net/pyqt/switching-layouts/
